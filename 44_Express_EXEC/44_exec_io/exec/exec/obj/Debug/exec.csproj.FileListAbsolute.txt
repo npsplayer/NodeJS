@@ -1,0 +1,7 @@
+D:\exec\exec\bin\Debug\exec.exe.config
+D:\exec\exec\bin\Debug\exec.exe
+D:\exec\exec\bin\Debug\exec.pdb
+D:\exec\exec\obj\Debug\exec.csprojAssemblyReference.cache
+D:\exec\exec\obj\Debug\exec.csproj.CoreCompileInputs.cache
+D:\exec\exec\obj\Debug\exec.exe
+D:\exec\exec\obj\Debug\exec.pdb
